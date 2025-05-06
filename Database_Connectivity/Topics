@@ -7,3 +7,10 @@ CRUD Operations: Basic operations on tables.
 ORM with SQLAlchemy: Define models, queries.
 
 Flask Integration: Link DB with Flask apps.
+
+
+
+--sqlalchemy /orm
+
+1.install sqlalchemy and pymysql
+2.
